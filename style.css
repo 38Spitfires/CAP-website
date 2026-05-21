@@ -36,14 +36,14 @@ ul {
 
 ul li {
   float: left;
-  padding: 10px;
+  padding: 0px;
 }
 
 ul li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 5px 7px;
+  padding: 0px 7px;
   text-decoration: none;
 }
 
