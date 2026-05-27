@@ -4,11 +4,11 @@ body {
 .center{
   display: flex;
   justify-content: center;
-  font-size: 80px;
+  font-size: 50px;
 }
 
 .container {
-  font-size: 60px;
+  font-size: 40px;
   padding: 5px;
 }
 
@@ -36,7 +36,8 @@ ul {
 
 ul li {
   float: left;
-  padding: 0px;
+  font-size: 20px;
+  padding: 10px;
 }
 
 ul li a {
