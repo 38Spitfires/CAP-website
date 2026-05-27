@@ -17,6 +17,9 @@ body {
   color: white;
   font-weight: 2;
 }
+a {
+  color: aqua;
+}
 
 body {
   margin: 0;
